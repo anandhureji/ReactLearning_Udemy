@@ -11,3 +11,39 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.user{
+  width: 400px;
+  margin: 50px auto;
+  padding: 50px;
+  background-color: aqua;
+  border-radius: 20px;
+
+}
+
+.row{
+
+  display: flex;
+  justify-content: space-between;
+}
+
+.light{
+  background-color: lightgrey ;
+  color: darkslategrey;
+}
+
+.dark{
+  background-color: darkslategray;
+  color: lightgray;
+}
+
+.header{
+  padding: 20px;
+}
+
+.content{
+  width: 750px;
+  height: 200px;
+  padding: 50px;
+  margin: 20px auto;
+}
