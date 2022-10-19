@@ -58,3 +58,26 @@ code {
 th{
   text-align: left;
 }
+
+.pages{
+  width: 800px;
+  background-color: aqua;
+  margin: 50px auto;
+
+}
+
+.page-header{
+  padding: 10px;
+  background-color: lightgray;
+
+}
+
+.page-content{
+  padding: 10px;
+  background-color: lightgoldenrodyellow;
+
+}
+
+.active{
+  font-weight: bold;
+}
